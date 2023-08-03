@@ -1,0 +1,16 @@
+img {
+	width: 30%;
+	/* margin: 1.66%; */
+    margin: calc(10%/6);
+    /* float: left;     */
+}
+nav{
+    font-family:'raleway',sans-serif;
+text-transform: uppercase;
+border-bottom:#f1f1f1;
+margin-left: calc(10%/6);
+padding: 20px 20px;
+font-size: large;
+font-weight: bold; 
+}
+
